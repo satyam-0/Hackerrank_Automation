@@ -1,5 +1,7 @@
 {
     "userid": "satyammodanwal21",
     "password": "hackhakerrank",
-    "moderators": "adarshraghvendra"
+    "moderators": [
+        "adarshraghvendra"
+    ]
 }
