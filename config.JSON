@@ -1,8 +1,11 @@
 {
     "userid": "satyammodanwal21",
     "password": "Enter your passwor
-    d .. ",
+    d ..
+    ",
     "moderators": [
         "adarshraghvendra"
     ]
+
+    // you can also add multiple moderators 
 }
